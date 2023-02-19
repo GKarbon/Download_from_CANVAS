@@ -4,6 +4,7 @@ Automation script to download the files from CANVAS courses.
 ## The repository contain:
 - Main.py
 - requirement.txt
+- README.md
 
 ## Quick start:
 Get the requirements
